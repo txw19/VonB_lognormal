@@ -34,3 +34,6 @@ vignettes/*.pdf
 *.csv
 *.txt
 *.rds
+*.pdf
+*.png
+*.jpg
